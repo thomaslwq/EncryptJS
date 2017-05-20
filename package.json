@@ -1,0 +1,22 @@
+{
+  "name": "encryptjs",
+  "version": "1.0.0",
+  "description": "A JS AES and BASE64 encrypt and decrypt lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomaslwq/EncryptJS.git"
+  },
+  "author": "thomas.lin@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomaslwq/EncryptJS/issues"
+  },
+  "homepage": "https://github.com/thomaslwq/EncryptJS",
+  "devDependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
